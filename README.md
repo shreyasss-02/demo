@@ -1,3 +1,4 @@
 # demo
-This is my First Repository
-Author-Shreyas Sindhur
+This is my First Repository.
+<br>
+Author-Shreyas Sindhur.
